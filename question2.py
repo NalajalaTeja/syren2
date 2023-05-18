@@ -1,3 +1,4 @@
+#sum of digits
 num=int(input("Enter number: "))
 sum=0
 while(num):
